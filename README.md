@@ -1,3 +1,9 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
 # 🍟 BiteBuzz-by-Manav
 
 **BiteBuzz** is a stylish web-based chip flavor showcase built using **HTML**, **CSS**, and **JavaScript**.  
@@ -88,3 +94,4 @@ Edit
 - Replace the GitHub and LinkedIn placeholders with your actual links.
 
 Let me know if you want help previewing how it’ll look on GitHub!
+
